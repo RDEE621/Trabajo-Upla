@@ -1,0 +1,76 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.padre{
+background: #545454;
+display: flex;
+flex-flow: column nowrap;
+}
+    .menu{
+    background-image: url(https://www.universalformacion.com/images/blog/627e1bd7d7d473.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+        .principal{
+        background: #bbc5f1;
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: center;
+        font-style: normal;
+        }
+            .caja{
+                background: #FFF;
+                width: 200px;
+                height: 30px;
+            }
+    .cursoss{
+         background: #545454;
+    }
+        .htmls{
+            background-image: url(https://assets-blog.hostgator.com.br/wp-content/uploads/2020/08/14-agosto-html-1.webp);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .csss{
+            background-image: url(https://www.devopsschool.com/blog/wp-content/uploads/2022/03/CSS.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .jss{
+            background-image: url(https://d8285fmxt3duy.cloudfront.net/public/articulos/img/java-script1.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    .aside{
+        background: #545454;
+    }
+        .costos{
+            background-image: url(https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2017/02/22/14877703903696.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+            .mensual{
+                background: #eed68a;
+            }
+            .anual{
+                background: #a6f5f1;
+            }
+            .indi{
+                background: #dabbf7;
+            }
+    .footer{
+    background: #545454;
+    }
+        .redes{
+            background-image: url(https://tindalos.es/wp-content/uploads/2022/06/redes-sociales-mas-utilizadas.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .cur{
+            background: #9abaff;
+        }
+        .red{
+            background: #b1f3ca;
+        }
